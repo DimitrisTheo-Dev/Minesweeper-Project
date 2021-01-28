@@ -1,2 +1,2 @@
 # Minesweeper-Project
-This is a minesweeper project I created with C
+This is a minesweeper game I created using C.
